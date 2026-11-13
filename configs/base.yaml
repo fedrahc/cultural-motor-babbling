@@ -1,0 +1,4 @@
+# Settings shared by every condition (fill in as you build)
+n_steps:
+n_seeds:
+link_lengths: [1.0, 1.0]
